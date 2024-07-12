@@ -3,7 +3,7 @@
 ### Environment
 
 + 当前Model定义
-${INPUT}
+  ${INPUT}
 
 ## WorkFlow
 使用nestjs + ts 技术栈，在 controlor 层实现  查询所有 更新 删除（支持批量） 新增接口 删除所有，在service层 实现这些方法。请直接输出代码。请按照下面格式输出。
